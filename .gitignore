@@ -1,0 +1,5 @@
+.idea
+ngrok
+*.pyc
+__pycache__
+venv
